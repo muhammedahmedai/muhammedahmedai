@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning AI/ML & Web Development<br>🎯 Goals: Become an AI Engineer/Developer</p>
+<p align="left">📚 I'm currently learning AI/ML & Software Development<br>🎯 Goals: Become an AI Engineer/Developer</p>
 
 ###
 
